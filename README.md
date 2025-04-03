@@ -3,7 +3,7 @@
 <strong>I'm a full-stack developer passionate about delivering high quality technology solutions. I love overcoming challenges and improving my skills with every project. Keeping up to date with the latest technology trends is essential for me, and I'm always looking to learn more to expand my capabilities and create effective solutions.</strong>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25"/> Programming languages and tools I use most:<div align="center"><br><a href="#"><img src="https://skillicons.dev/icons?i=figma,html,css,javascript,bootstrap,react,python,django,mysql,sqlite,postman,git,github,vscode"/></a></div><br>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25"/> Programming languages and tools I use most:<div align="center"><br><a href="#"><img src="https://skillicons.dev/icons?i=figma,html,css,javascript,bootstrap,react,python,django,mysql,sqlite,postman,git,github,vscode,idea"/></a></div><br>
 
 <!--
 <p style="display: flex; align-items: center;">
