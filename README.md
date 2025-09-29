@@ -9,6 +9,6 @@
   <img src="https://github.com/user-attachments/assets/d33d0f5a-bc5b-42ec-a8d2-a267131147ec" alt="xK" width="100%"/>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Carlos-Martz" alt="Visitor Badge">
+<div align="center"><a href="#">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Carlos-Martz" alt="Visitor Badge"></a>
 </div>
