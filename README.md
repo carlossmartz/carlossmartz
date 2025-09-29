@@ -5,8 +5,8 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25"/> Programming languages and tools I use most:<div align="center"><br><a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma,html,css,javascript,bootstrap,tailwindcss,react,python,django,mysql,postman,git,github,zed"/></a></div><br>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d33d0f5a-bc5b-42ec-a8d2-a267131147ec" alt="xK" width="100%"/>
+<p align="center"><a href="#">
+  <img src="https://github.com/user-attachments/assets/d33d0f5a-bc5b-42ec-a8d2-a267131147ec" alt="xK" width="100%"/></a>
 </p>
 
 <div align="center"><a href="#">
